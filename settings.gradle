@@ -1,0 +1,6 @@
+rootProject.name = 'module-test-1'
+include 'port'
+include 'member_domain'
+include 'api'
+include 'domain'
+
